@@ -1,24 +1,38 @@
 #EXTM3U
+
+
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168rich.tv/
-https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/HubsportPL1.m3u8
+#EXTVLCOPT:http-referrer=:https://xn--l3clf0bb4at.live/
+https://slave01.appball.vip/hls/PJo07SrfBaY-L7IUvMlgSw/1763785174/bein1.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://125.227.210.55:8177/VideoInput/play.ts
+#EXTVLCOPT:http-referrer=:https://xn--l3clf0bb4at.live/
+https://slave01.appball.vip/hls/ze0bydhmx6FENBfOYtWFjQ/1763785204/truesport7.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-https://wahyu1ptv.pages.dev/ZiggoSport-HD.m3u8
+#EXTVLCOPT:http-referrer=https://168rich.tv/
+https://slave03.appball.vip/hls/PciQJC2i11aPIVha9924cw/1763785281/golftv.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168rich.tv/
-https://wahyu1ptv.pages.dev/ZiggoSport2-HD.m3u8
+https://slave03.appball.vip/hls/R4kGIkOSM0V2oMFtE2Gurw/1763785321/truesport3.m3u8 
+
+
+
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168rich.tv/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn1.m3u8
+https://slave01.appball.vip/hls/tNAvSbPdyAEPXuFdV1q_mQ/1763785361/tennis.m3u8
 
 
 
@@ -3715,4 +3729,5 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
