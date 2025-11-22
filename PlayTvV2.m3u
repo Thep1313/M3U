@@ -517,6 +517,31 @@ https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/19hbof.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/CHcinemax.m3u8
+
+#EXTINF:-1 tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-history.png" group-title="ช่องทรูวิชั่น",History
+#EXTVLCOPT:http-referrer=https://github.com/
+https://github.com/cattviptv2605/documentary/raw/refs/heads/main/history.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C19N84f9/IMG-2447.png" group-title="ช่องทรูวิชั่น",History 2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png" group-title="ช่องทรูวิชั่น",MySci
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png" group-title="ช่องทรูวิชั่น",Khong Dee Thailand
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0154/DASH/V0154.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png" group-title="ช่องทรูวิชั่น",Thainess
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0155/DASH/V0155.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=7d7e6817b7bdf22328fd56c31e98c658&chunkHttps=true&tmid=B0003&tpbk=Yqih8yp9piaqoyMz&rrt=1763689895&tmod=rfk&rsid=f2a087bf-9d01-4da9-89ce-fd5828137a70&tuid=7266e3b7ff&cdn=redfox-https&tdid=ff7b3e6627265e700d432a26740b369a&origin=anevia&tfa=f0-fc&tttl=1763776295
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680273/ch3.png" group-title="Utv",CH3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://www.livedoomovies.com/02_3HD_720p/chunks.m3u8
@@ -3729,5 +3754,6 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
