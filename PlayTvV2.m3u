@@ -2159,6 +2159,23 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="📺DLTV",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://bbk100.xyz/media/cache/strip/202511/movie/1b4cfa4be154e436db33645fb07cffd9.webp" , เพลย์เดท (2025)
+https://vod1.stream25.com/Playdate-2025-SUB.mp4.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="http://103.114.203.129:8080/images/f203a937c17fd1c830a9b99b1d51fb51.jpg" , The Follies: วันหนักของคนหน่วง (2025)
+https://main.24playerhd.com/m3u8/5a09c2393259219fdf9e55e2/5a09c2393259219fdf9e55e2438.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHHmcMW9NFaNbtjD8Uvhpk28bq1.jpg" , The Family Plan 2 (2025)
+https://vod1.stream25.com/The-Family-Plan-2-2025-SUB.mp4.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6SBjaL1fldnpuctm5K5C0Gw2qPz.jpg" ,Flower Girl (2025) อลวนสาวกลีบหาย
+https://m3u8haha.com/movie/M15547.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMgRZUO8jZDuqnLLWOx4d3oHCfN.jpg" ,After The Hunt (2025) ร่องรอยหลังล่า
+https://m3u8haha.com/movie/M15549.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5NWESo5QIyiAXtPSOBX3VAquXi.jpg" group-title="หนังฝรั่ง",ช่องว่างที่ขาดหาย สายใยที่ผูกพัน (2025)
 https://main.24playerhd.com/m3u8/c443a32b92f54c8e0cd5ded3/c443a32b92f54c8e0cd5ded3438.m3u8
 #EXTINF:-1 tvg-logo="http://103.114.203.129:8080/images/f203a937c17fd1c830a9b99b1d51fb51.jpg" group-title="หนังฝรั่ง",แชมเปญรัก ปัญหาร้าย (2025)
@@ -4314,6 +4331,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
