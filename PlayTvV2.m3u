@@ -2153,7 +2153,8 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
-
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg" , Train Dreams (2025) ทางรถไฟสายฝัน
+https://main.24playerhd.com/m3u8/5d4598f38fb668e728e5bd08/5d4598f38fb668e728e5bd08438.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://bbk100.xyz/media/cache/strip/202511/movie/1b4cfa4be154e436db33645fb07cffd9.webp" , เพลย์เดท (2025)
 https://vod1.stream25.com/Playdate-2025-SUB.mp4.m3u8
 
@@ -3265,6 +3266,13 @@ https://m1free.inwstream.com:1936/movie3/Arnold_Is_a_Model_Student_2023/Arnold_I
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240323055850daBOJx3GAYU5rp8h6D9q3CwrNVn.jpg" group-title="หนังไทย",บังเอิญรัก ข่อยฮักเจ้า Loser Lover (2023)
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_1080.mp4/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tidtibESNT6ADt53PPX74tHB9oV.jpg" group-title="หนังเอเซีย" ,They Call Him OG (2025) โอจี คนระห่ำคืนถิ่น
+https://m3u8haha.com/movie/M15552.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202511/movie/eb921428a293f064f305ca0bc6afab48.webp" group-title="หนังเอเซีย",Bleeding Tiger: Thangalaan (2024) แผ่นดินทอง
 https://vod1.stream25.com/Thangalaan-2024-sub.mp4.m3u8
 #EXTINF:-1 tvg-logo="https://movie747hd.com/wp-content/uploads/2025/11/2-4.jpg" group-title="หนังเอเซีย",Bleeding Tiger: หลั่งเลือดพยัคฆ์: ปฏิบัติการอำพราง
@@ -4324,6 +4332,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
