@@ -19,7 +19,7 @@ https://cfd6.dfccfd.cfd/dbdn_x1/monomax3_480p/playlist.m3u8?wmsAuthSign=c2VydmVy
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://xn--l3clf0bb4at.live/
+#EXTVLCOPT:http-referrer=:https://ดูบอล24.live/
 https://cdn1.googlecdn.live/db24/monomax-3/playlist.m3u8?wmsAuth=c2VydmVyX3RpbWU9MTEvMjMvMjAyNSAxOjQyOjM5IFBNJmhhc2hfdmFsdWU9VndvRHpWZXl3cGFITHZYSHVLZk51UT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 5
@@ -4311,6 +4311,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
