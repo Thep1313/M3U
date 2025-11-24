@@ -155,42 +155,47 @@ https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/safetvnow3.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch630_300_216" group-title="Event",NowSport4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/safetvnow4.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyF1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168rich.tv/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/371.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrf1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyMoto
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/310.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrmoto.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyGolf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/332.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyAction
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrgolf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyRacing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/333.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrrace.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyMain Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/335.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrmain.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyTennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/15077.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrtenn.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyMix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/1821.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrmix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyFootball
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/6203.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrfoot.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sky_Sports_2025.svg/500px-Sky_Sports_2025.svg.png" group-title="Event",SkyPremier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/331.ts
+https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/Skytrpre.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/26dJcxGv/IMG-2741.png" group-title="Event",MONO29
 http://203.151.150.235:8080/memfs/57261264-217d-4a2f-9678-4c5251d762fe.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" group-title="Event",ONE SPORTS HD
@@ -4314,6 +4319,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
