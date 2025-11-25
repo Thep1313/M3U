@@ -2224,6 +2224,20 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg" , Altered (2025)
+https://m3u8haha.com/movie/M15558.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZp10EseYrSRN7rR920YK1tht9b.jpg" , Next Room Affair (2025)
+https://m3u8haha.com/movie/M15553.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg" , คนดีที่ลัก (2025)
+https://m3u8haha.com/movie/M15557.mp4/playlist.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg" , Train Dreams (2025) ทางรถไฟสายฝัน
 https://main.24playerhd.com/m3u8/5d4598f38fb668e728e5bd08/5d4598f38fb668e728e5bd08438.m3u8
 #EXTINF:-1 group-title="หนังฝรั่ง" tvg-logo="https://bbk100.xyz/media/cache/strip/202511/movie/1b4cfa4be154e436db33645fb07cffd9.webp" , เพลย์เดท (2025)
@@ -3342,6 +3356,8 @@ https://m1free.inwstream.com:1936/movie3/Loser_Lover_2023/Loser_Lover_2023_th_10
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A3jv9cICPkVHx48h2NZXW4c1ZnP.jpg" group-title="หนังเอเซีย" ,Diesel (2025)
+https://m3u8haha.com/movie/M15556.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tidtibESNT6ADt53PPX74tHB9oV.jpg" group-title="หนังเอเซีย" ,They Call Him OG (2025) โอจี คนระห่ำคืนถิ่น
 https://m3u8haha.com/movie/M15552.mp4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bbk100.xyz/media/cache/strip/202511/movie/eb921428a293f064f305ca0bc6afab48.webp" group-title="หนังเอเซีย",Bleeding Tiger: Thangalaan (2024) แผ่นดินทอง
@@ -4403,6 +4419,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
