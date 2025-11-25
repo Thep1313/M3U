@@ -1,15 +1,15 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://xn--l3clf0bb4at.live/
-https://slave03.appball.vip/hls/GYwAaRlGPOpbAs7rDJ0Kew/1764057388/truesport2.m3u8
+https://cfd5.dfccfd.cfd/dbdn_x6/baygonhero5/chunks.m3u8?nimblesessionid=1537622&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyNSAxMDozMzoyMyBBTSZoYXNoX3ZhbHVlPTNjcDltbXc5UGt0d2Q3VDBpVjNHR1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0xOSZpZD0xNzY0MDY2ODAzNTE1
+
 
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-https://slave01.appball.vip/hls/e9Zf8VKBwU7tipCyHUsNXA/1764057446/truesport1.m3u8
+#EXTVLCOPT:http-referrer=:https://xn--l3clf0bb4at.live/
+https://cfd6.dfccfd.cfd/dbdn_x6/baygonhero6/chunks.m3u8?nimblesessionid=1469278&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyNSAxMDozNDowNCBBTSZoYXNoX3ZhbHVlPUUxbVI3TldTU0tEZEZWRnNjTFlrUGc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0xOSZpZD0xNzY0MDY2ODQ0OTMy
 
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 3
@@ -4419,6 +4419,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
