@@ -3,24 +3,25 @@
 
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168rich.tv/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/hubpremier1.m3u8
+#EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
+https://slave03.appball.vip/hls/umhb-3y-rx4XYZMvHBMw3g/1764437184/vip.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/nowpremier1.m3u8
+https://slave03.appball.vip/hls/5YTDfaxWjFTUprDjYShErg/1764437203/mono3.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=:https://www.movie2k.io/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/supersportmotorsport.m3u8
+#EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
+https://slave04.appball.vip/hls/awQFEElMszgto3v9lTEpMw/1764437237/mono5.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://168rich.tv/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport1_nz.m3u8
+#EXTVLCOPT:http-referrer=https://xn--l3clf0bb4at.live/
+https://slave03.appball.vip/hls/1EBi-mXWJCANTkC_ER4BLA/1764437301/bein1.m3u8
 #EXTINF:-1 tvg-logo="https://anym3u8player.com/live.gif" group-title="Event",Event 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://168rich.tv/
-https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn1.m3u8
+https://slave03.appball.vip/hls/wqrXZkx2L2QjIsVzUjRoMA/1764437337/truesport3.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="Event",BG dklsport1
@@ -4410,6 +4411,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
