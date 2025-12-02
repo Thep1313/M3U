@@ -37,40 +37,6 @@ https://cdn1.googlecdnforstreaming.live/live/dklsport2/playlist.m3u8
 https://cdn1.googlecdnforstreaming.live/live/dklsport3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO1.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO2.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO3.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO4.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO5.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO6.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO7.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO8.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoMax9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO9.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoNoMax10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/M10.m3u8
-#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png" group-title="Event",MoNoMax11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-https://raw.githubusercontent.com/Thep1313/M3U/refs/heads/main/MO11.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Mono-next-New-logo.png" group-title="Event",Monodkl1
@@ -4415,6 +4381,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
