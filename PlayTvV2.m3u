@@ -23,6 +23,10 @@ https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/skysport1_nz.m3u
 https://github.com/cattviptv2605/sportworld/raw/refs/heads/main/tsn1.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.upload.ee/image/18680313/one.png" group-title="Event",ONE HD
+http://203.150.191.28:8080/live/one31.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/appiptv1/logotv/main/sportus/opt1729770760d.png" group-title="Event",BG dklsport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://warpdooball.net/
@@ -4381,6 +4385,7 @@ https://m1free.inwstream.com:1936/movie3/Macross_Delta_Zettai_Live_2021/Macross_
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20240608124520zZtj6dgUs0yZzZIVcDCAwfb6idl.jpg" group-title="หนังการ์ตูน",Macross Delta: Passionate Walkure (2018) บรรยายไทย
 #EXTVLCOPT:http-referrer=https://www.fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Macross_Delta_Passionate_Walkure_2018/Macross_Delta_Passionate_Walkure_2018_st_1080.mp4/playlist.m3u8
+
 
 
 
